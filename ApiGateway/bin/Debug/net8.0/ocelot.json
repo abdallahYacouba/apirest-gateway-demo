@@ -1,0 +1,64 @@
+{
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:5143"
+  },
+  "Routes": [
+    {
+      "UpstreamPathTemplate": "/gateway/trainee",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/trainee",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5205
+        }
+      ],
+      "RateLimitOptions": {
+        "EnableRateLimiting": true,
+        "Period": "10s",
+        "Limit": 3,
+        "PeriodTimespan": 10 
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/trainee/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "DownstreamPathTemplate": "/trainee/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5205
+        }
+      ]
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/items",
+      "UpstreamHttpMethod": [ "GET" ],
+      "DownstreamPathTemplate": "/items",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5089
+        }
+      ],
+      "FileCacheOptions": {
+        "TtlSeconds": 10
+      }
+    },
+    {
+      "UpstreamPathTemplate": "/gateway/items/{id}",
+      "UpstreamHttpMethod": [ "GET", "DELETE" ],
+      "DownstreamPathTemplate": "/items/{id}",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 5089
+        }
+      ]
+    }
+  ]
+}

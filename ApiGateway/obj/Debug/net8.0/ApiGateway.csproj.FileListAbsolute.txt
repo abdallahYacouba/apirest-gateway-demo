@@ -1,0 +1,129 @@
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.staticwebassets.endpoints.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\GABERA\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\appsettings.Development.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\appsettings.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ocelot.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.staticwebassets.endpoints.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.exe
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.deps.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.runtimeconfig.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\ApiGateway.pdb
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\CacheManager.Core.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\FluentValidation.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\IPAddressRange.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Ocelot.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\Ocelot.Cache.CacheManager.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.AssemblyReference.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfoInputs.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.AssemblyInfo.cs
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.CoreCompileInputs.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\scopedcss\bundle\ApiGateway.styles.css
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.development.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\swae.build.ex.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.csproj.Up2Date
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\refint\ApiGateway.dll
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.pdb
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ApiGateway.genruntimeconfig.cache
+C:\NET\WIN 11\Documents\dev\ApiGateway\ApiGateway\obj\Debug\net8.0\ref\ApiGateway.dll
